@@ -16,6 +16,9 @@ input {
     border-radius: 0.4rem;
 }
 
+.formContainer {
+    margin: 1.6rem;
+}
 .input-group {
     margin: 1.6rem;
 }
