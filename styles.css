@@ -1,0 +1,12 @@
+h1 {
+    font-family: Stuart, Georgia, serif;
+}
+
+body {
+    font-family: Graphik, "Helvetica Neue", sans-serif;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+}
