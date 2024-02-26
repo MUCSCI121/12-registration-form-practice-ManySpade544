@@ -19,3 +19,8 @@ input {
 .input-group {
     margin: 1.6rem;
 }
+
+button {
+    background-color: #1f513f;
+    color: white;
+}
