@@ -10,3 +10,7 @@ label {
     font-weight: bold;
     display: block;
 }
+
+input {
+    font-size: 1.6rem;
+}
