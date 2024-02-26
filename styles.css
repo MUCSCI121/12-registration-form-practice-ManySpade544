@@ -20,6 +20,10 @@ input {
     margin: 1.6rem;
 }
 
+.checkboxLabel {
+    display: inline-block;
+}
+
 button {
     background-color: #1f513f;
     color: white;
