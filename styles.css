@@ -13,8 +13,9 @@ label {
 
 input {
     font-size: 1.6rem;
+    border-radius: 0.4rem;
 }
 
 .input-group {
-    margin: ;
+    margin: 1.6rem;
 }
